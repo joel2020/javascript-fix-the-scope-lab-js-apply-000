@@ -2,10 +2,10 @@ var animal = 'dog'
 
 function myAnimal() {
   var animal = 'dog'
-  
+  var animal = 'cat'
   return animal
 }
-
+console.log(dog, cat)
 
 function yourAnimal() {
   // How can we make sure that this function
