@@ -1,11 +1,10 @@
 var animal = 'dog'
 
 function myAnimal() {
-  var animal = 'dog'
-  var animal = 'cat'
+  var animal = (dog === cat)
   return animal
 }
-console.log(dog, cat)
+console.log(animal)
 
 function yourAnimal() {
   // How can we make sure that this function
